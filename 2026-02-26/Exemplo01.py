@@ -1,5 +1,6 @@
-print('--- Calculadora de soma ---')
-n1 = int(input('Digite o primeiro número: '))
-n2 = int(input('Digite o segundo número: '))
-soma = n1+n2
-print(f'A soma dos números é: {soma}')
+x = 5
+y = 2+3*5
+z = x+3
+x = x+1
+x = x*x/ '''Associatividade dos operadores'''
+print(x)
